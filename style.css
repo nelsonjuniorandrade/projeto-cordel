@@ -65,12 +65,12 @@ section.imagem > p{
     width: 400px;
     text-shadow: 1px 1px 0px rgb(0, 0, 0);
 }
-#img01{
+section#img01{
     background-image: url(imagens/background001.jpg);background-position:right center;
     background-size: cover;
     background-attachment: fixed;
 }
-#img02{
+section#img02{
     background-image: url(imagens/background002.jpg);
     background-position: right center;
     background-size: cover;
